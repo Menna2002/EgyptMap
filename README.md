@@ -7,9 +7,8 @@ This project aims to visualize the population distribution across the 27 governo
 ## Table of Contents
 
 1. [Stages of Visualization](#stages-of-visualization)
-2. [Data Manipulation](#data-manipulation)
-3. [Development Environment](#development-environment)
-4. [How to Use](#how-to-use)
+2. [Development Environment](#development-environment)
+3. [How to Use](#how-to-use)
 
 ## Stages of Visualization
 
@@ -63,3 +62,8 @@ This project aims to visualize the population distribution across the 27 governo
 4. **View Results**:
    - The visualization will display the population distribution across the 27 governorates of Egypt.
   
+## Output
+**`When you hover over the mouse, the city name and its population count will appear.`**
+<p align="center">
+  <img src="Output/Egypt.png" alt="map" width="600"/>
+</p>
